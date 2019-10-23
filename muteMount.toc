@@ -1,0 +1,10 @@
+## Interface: 11302
+
+## Title: muteMount
+
+## Notes: Auto mutes SFX when mounted
+
+## Version: 1.0
+## Author: Goffauxs
+
+muteMount.lua
